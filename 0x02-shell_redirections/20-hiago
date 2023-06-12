@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "The Cat could" | tr -d c | tr -d C
+
