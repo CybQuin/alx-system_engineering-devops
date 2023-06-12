@@ -1,0 +1,2 @@
+#!/bin/bash
+read -a list -p "please list some words:".uniq
