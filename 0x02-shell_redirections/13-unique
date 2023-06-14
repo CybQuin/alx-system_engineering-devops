@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $input | tr '''\n' | sort | uniq -u
+read -p "Filenames: " -a input_array | tr '' '\n' | sort | uniq -u

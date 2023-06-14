@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The Cat couldn't" | tr -d 'C' | tr -d 'c'
+echo "We can program your personal and business facebook pages to automatically Post Daily interesting comments and pictures for you" | tr -d 'C' | tr -d 'c'

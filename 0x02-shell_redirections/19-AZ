@@ -1,2 +1,2 @@
-echo "input:" | tr 'A' 'c' | tr 'Z' 'e'
 #!/bin/bash
+echo input | read input | tr 'A' 'c' | tr 'Z' 'e'
