@@ -1,2 +1,2 @@
 #!/bin/bash
-echo input | read input | tr 'A' 'c' | tr 'Z' 'e'
+echo "We can program your personal and business facebook pages to automatically Post Daily interesting comments and pictures for you. If youre too busy to post to your Facebook, we can make your pages look alive with great information or any topic you request. Step 1. You tell us the topic and type of information you would like post to your page." | read input | tr 'A' 'c' | tr 'Z' 'e'
